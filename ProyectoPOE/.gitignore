@@ -1,0 +1,21 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.slnx
+
+# Build results
+bin/
+obj/
+TestResults/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+Thumbs.db
